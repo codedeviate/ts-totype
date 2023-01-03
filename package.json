@@ -1,0 +1,14 @@
+{
+    "name": "ts-totype",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.ts",
+    "scripts": {},
+    "keywords": [],
+    "author": "",
+    "license": "ShameOnYou",
+    "devDependencies": {
+        "@types/node": "^18.11.18",
+        "typescript": "^4.9.4"
+    }
+}
